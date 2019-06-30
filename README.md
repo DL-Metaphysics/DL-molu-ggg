@@ -1,3 +1,3 @@
 #  DL-yangguoqing
 #   Me, ggg ---yan g g uo qin g
-![image text] (https://github.com/DL-Metaphysics/DL-yangguoqing/blob/master/%E5%B7%A5%E8%B5%84.png)
+# 请直接打开“6_25第一次作业“”即可，代码图片都在里面
