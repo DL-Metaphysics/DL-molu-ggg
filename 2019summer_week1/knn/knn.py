@@ -28,3 +28,8 @@ def knn(z1,z2,z,k):
     else:
         print("she is a girl")   
 knn(z1,z2,z,k)
+
+
+'''运行结果：
+k=3时，she is a girl
+k=5时，she is a girl'''
